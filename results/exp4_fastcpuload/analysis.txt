@@ -1,0 +1,5 @@
+attack frames sent : 2000
+detected           : 2000  (detection rate 100.0%)
+missed             : 0
+false positives    : 0
+latency ms  mean=0.144  median=0.090  p95=0.146  max=24.542
